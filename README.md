@@ -35,6 +35,7 @@ The goal of this project is to combine everything you have learned about data wr
 ## Links & Resources
 
 - <https://www.kaggle.com/teajay/global-shark-attacks>
+- https://tutorialmarkdown.com/
 - <https://numpy.org/doc/1.18/>
 - <https://pandas.pydata.org/>
 - https://docs.python.org/3/library/functions.html
